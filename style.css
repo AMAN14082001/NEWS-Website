@@ -44,4 +44,5 @@ ul {
 nav {
     background-color: #f3faff;
     box-shadow: 0 0 4px #bbd0e2;
+    position: fixed;
 }
