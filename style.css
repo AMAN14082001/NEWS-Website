@@ -52,5 +52,5 @@ nav {
 }
 
 .main-nav {
-    
+    justify-content: space-between;
 }
