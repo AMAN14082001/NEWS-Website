@@ -67,3 +67,7 @@ nav {
 .hover-link {
     cursor: pointer;
 }
+
+.hover-link:hover {
+    
+}
