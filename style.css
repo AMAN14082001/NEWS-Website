@@ -73,5 +73,5 @@ nav {
 }
 
 .hover-link:active {
-    
+    color: red;
 }
