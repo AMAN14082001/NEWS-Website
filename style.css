@@ -69,5 +69,5 @@ nav {
 }
 
 .hover-link:hover {
-    
+    color: var(--secondary-text-color);
 }
