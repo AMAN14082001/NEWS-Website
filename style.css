@@ -85,4 +85,5 @@ nav {
     width: 200px;
     height: 100%;
     padding-inline: 12px;
+    border-radius: 4px;
 }
