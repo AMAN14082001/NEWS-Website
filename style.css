@@ -91,4 +91,5 @@ nav {
 
 .search-button {
     background-color: var(--accent-color);
+    color: white;
 }
