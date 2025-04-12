@@ -95,4 +95,5 @@ nav {
     padding: 8px 24px;
     border: none;
     border-radius: 4px;
+    cursor: pointer;
 }
