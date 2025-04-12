@@ -93,4 +93,5 @@ nav {
     background-color: var(--accent-color);
     color: white;
     padding: 8px 24px;
+    border: none;
 }
