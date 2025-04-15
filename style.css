@@ -110,5 +110,5 @@ main {
 }
 
 .cards-container {
-    
+    justify-content: space-between;
 }
