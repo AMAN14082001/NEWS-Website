@@ -121,4 +121,5 @@ main {
     min-height: 400px;
     box-shadow: 0 0 4px #d4ecff;
     border-radius: 4px;
+    cursor: pointer;
 }
