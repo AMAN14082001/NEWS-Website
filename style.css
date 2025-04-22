@@ -124,4 +124,5 @@ main {
     cursor: pointer;
     background-color: #fff;
     overflow: hidden;
+    transition: all 0.3s ease;
 }
