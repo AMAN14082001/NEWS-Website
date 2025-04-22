@@ -126,3 +126,7 @@ main {
     overflow: hidden;
     transition: all 0.3s ease;
 }
+
+.card:hover {
+    
+}
