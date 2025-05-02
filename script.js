@@ -9,6 +9,6 @@ async function fetchNews(query) {
     bindData(data.articles);
 }
 
-function bindData() {
-    
+function bindData(articles) {
+
 }
