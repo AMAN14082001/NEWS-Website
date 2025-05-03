@@ -10,5 +10,5 @@ async function fetchNews(query) {
 }
 
 function bindData(articles) {
-    const cardsContainer = document.getElementById
+    const cardsContainer = document.getElementById("cards-container");
 }
