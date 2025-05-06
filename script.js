@@ -15,5 +15,7 @@ function bindData(articles) {
 
     cardsContainer.innerHTML = "";
 
-    articles.
+    articles.forEach(() => {
+        
+    });
 }
