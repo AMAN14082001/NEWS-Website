@@ -16,6 +16,6 @@ function bindData(articles) {
     cardsContainer.innerHTML = "";
 
     articles.forEach((article) => {
-        if () return;
+        if (!article.) return;
     });
 }
