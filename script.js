@@ -19,6 +19,6 @@ function bindData(articles) {
         if (!article.urlToImage) return;
         const cardClone = newsCardTemplate.content.cloneNode(true);
         fillDataInCard(cardClone, article);
-        cardsContainer.
+        cardsContainer.appendChild();
     });
 }
