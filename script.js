@@ -23,6 +23,6 @@ function bindData(articles) {
     });
 }
 
-function fillDataInCard(cardClone, ) {
+function fillDataInCard(cardClone, article) {
 
 }
