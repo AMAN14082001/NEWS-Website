@@ -22,3 +22,7 @@ function bindData(articles) {
         cardsContainer.appendChild(cardClone);
     });
 }
+
+function fillDataInCard() {
+    
+}
