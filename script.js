@@ -24,5 +24,5 @@ function bindData(articles) {
 }
 
 function fillDataInCard(cardClone, article) {
-    const newsImg = cardClone.querySelector();
+    const newsImg = cardClone.querySelector('#news-img');
 }
