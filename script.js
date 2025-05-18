@@ -29,5 +29,5 @@ function fillDataInCard(cardClone, article) {
     const newsSource = cardClone.querySelector('news-source');
     const newsDesc = cardClone.querySelector('news-desc');
 
-    newsImg.
+    newsImg.src =
 }
