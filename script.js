@@ -28,4 +28,6 @@ function fillDataInCard(cardClone, article) {
     const newsTitle = cardClone.querySelector('#news-title');
     const newsSource = cardClone.querySelector('news-source');
     const newsDesc = cardClone.querySelector('news-desc');
+
+    newsImg.
 }
