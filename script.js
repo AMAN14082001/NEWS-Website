@@ -31,5 +31,5 @@ function fillDataInCard(cardClone, article) {
 
     newsImg.src = article.urlToImage;
     newsTitle.innerHTML = article.title;
-    newsDesc.innerHTML =
+    newsDesc.innerHTML = article.
 }
