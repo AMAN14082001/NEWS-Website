@@ -33,5 +33,5 @@ function fillDataInCard(cardClone, article) {
     newsTitle.innerHTML = article.title;
     newsDesc.innerHTML = article.description;
 
-    const date = new
+    const date = new Data();
 }
