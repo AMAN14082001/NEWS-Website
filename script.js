@@ -33,5 +33,7 @@ function fillDataInCard(cardClone, article) {
     newsTitle.innerHTML = article.title;
     newsDesc.innerHTML = article.description;
 
-    const date = new Date(article.publishedAt).toLocaleString("en-US");
+    const date = new Date(article.publishedAt).toLocaleString("en-US", {
+        timeZone: 
+    });
 }
