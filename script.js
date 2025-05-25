@@ -37,5 +37,5 @@ function fillDataInCard(cardClone, article) {
         timeZone: "Asia/Jakarta",
     });
 
-    newsSource.
+    newsSource.innerHTML =
 }
