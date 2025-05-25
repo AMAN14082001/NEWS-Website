@@ -36,4 +36,6 @@ function fillDataInCard(cardClone, article) {
     const date = new Date(article.publishedAt).toLocaleString("en-US", {
         timeZone: "Asia/Jakarta",
     });
+
+    newsSource.
 }
