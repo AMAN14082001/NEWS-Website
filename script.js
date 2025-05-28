@@ -39,5 +39,7 @@ function fillDataInCard(cardClone, article) {
 
     newsSource.innerHTML = `${article.source.name} - ${date}`;
 
-    cardClone.firstElementChild.addEventListener('click')
+    cardClone.firstElementChild.addEventListener('click', () => {
+        
+    })
 }
