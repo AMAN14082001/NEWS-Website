@@ -41,5 +41,5 @@ function fillDataInCard(cardClone, article) {
 
     cardClone.firstElementChild.addEventListener('click', () => {
         window.open(article.url, );
-    })
+    });
 }
